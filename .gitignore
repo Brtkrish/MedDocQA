@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+evaluation/results.csv
+data/sample_docs/*.pdf
+!data/sample_docs/.gitkeep
+.pytest_cache/

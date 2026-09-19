@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What are the three core modules of the ViT-FRD model?",
+    "expected_keywords": ["CCReformer", "Linformer", "knowledge distillation"]
+  },
+  {
+    "question": "How does the CCReformer module work?",
+    "expected_keywords": ["self-supervision", "transform", "patches"]
+  },
+  {
+    "question": "What is the purpose of the carbon-aware scheduling approach?",
+    "expected_keywords": ["carbon", "serverless", "scheduling"]
+  }
+]
